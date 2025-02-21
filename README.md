@@ -2,5 +2,3 @@
 How to use GitHub
 
 ### Hello GitHub
-
-### GitHub Test
